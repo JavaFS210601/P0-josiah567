@@ -1,0 +1,1 @@
+2021-06-30 08:47:29 INFO  Menu:84 - User created a new writer
